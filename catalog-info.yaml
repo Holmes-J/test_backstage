@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test-repo
-  description: "test-repo_ext"
+  name: test-repo-ext
+  description: "test-repo-ext"
   tags:
     - python
   annotations:
