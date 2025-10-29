@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo-repo
+  name: test-repo
   description: "test-repo"
   tags:
     - python
