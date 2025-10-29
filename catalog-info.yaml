@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo-repo
+  description: "test-repo"
+  tags:
+    - python
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: Holmes-J/test_backstage
+    backstage.io/source-template: 
+  links:
+spec:
+  type: module
+  lifecycle: experimental
+  owner: "user:default/Holmes-J"
+  system: "system:default/trial-team"
