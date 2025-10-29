@@ -8,8 +8,6 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Holmes-J/test_backstage
-    backstage.io/source-template: 
-  links:
 spec:
   type: module
   lifecycle: experimental
